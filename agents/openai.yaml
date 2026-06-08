@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Design System"
+  short_description: "Premium Apple-style UI with Swiss Modernism, SF Pro typography, and glassmorphism"
+  default_prompt: "Use apple-skill to build a premium minimalist landing page with Apple-style design tokens, full-bleed hero tiles, pill buttons, and glassmorphism navigation."
