@@ -10,19 +10,19 @@ This is an **AI coding assistant skill** — a set of structured design instruct
 
 ## ✨ Features
 
-| 🎨 **Exact Apple Design Tokens** | Colors (--apple-blue: #0071E3), spacing (8px baseline), z-index layering — extracted from apple.com production |
+| 🎨 **Exact Apple Design Tokens** | Colors, spacing, z-index layering — extracted from apple.com production |
 | :--- | :--- |
-| 🔤 **SF Pro Typography Scale** | 6 responsive breakpoints, exact font-size/line-height/letter-spacing for headline, subhead, body, button |
-| 🪟 **Glassmorphism Nav Bar** | ackdrop-filter: saturate(180%) blur(20px), fixed 44px, inline SVG icons |
-| 🖼️ **Full-Bleed Hero Tiles** | Dark drama + bottom-aligned white text + gradient overlay layering |
+| 🔤 **SF Pro Typography Scale** | 6 responsive breakpoints, exact font-size/line-height/letter-spacing |
+| 🪟 **Glassmorphism Nav Bar** | backdrop-filter blur, fixed 44px, inline SVG icons |
+| 🖼️ **Full-Bleed Hero Tiles** | Dark drama + bottom-aligned white text + gradient overlay |
 | 🎠 **Auto-Advancing Gallery** | Dot-navigation carousel, 5s auto-advance, smooth transitions |
-| 📱 **Full Responsive Grid** | 4 breakpoints (1069/735/834px), promo 2-col → mobile 1-col |
+| 📱 **Full Responsive Grid** | 4 breakpoints, promo 2-col to mobile 1-col |
 | ✅ **Pre-Flight QA Checklist** | 10+ validation checks — zero-shadow, zero-icon-font, zero-card-radius |
 
 ## 🎯 Who is this skill for?
 
 - Developers using **AI coding assistants** who want Apple-quality UI without hand-coding every pixel
-- Designers who want to rapidly prototype **premium landing pages & marketing sites**
+- Designers who want to rapidly prototype **premium landing pages and marketing sites**
 - Anyone building **product showcases, corporate portfolios, or minimalist high-end websites**
 
 ## ⚡ How to use this skill
@@ -42,7 +42,7 @@ The AI will automatically apply all Apple design tokens, component templates, la
 - **Framework**: Vanilla HTML/CSS/JS (no React needed)
 - **CSS**: Custom properties, flexbox, responsive type scale
 - **Icons**: Inline SVGs only (no icon fonts)
-- **Structure**: SKILL.md (core spec) + eferences/ (reverse-engineered analysis) + gents/ (AI config)
+- **Structure**: SKILL.md (core spec) + references/ (analysis) + agents/ (AI config)
 
 ## 📊 By the numbers
 
@@ -63,10 +63,10 @@ The AI will automatically apply all Apple design tokens, component templates, la
 
 ## ✨ 核心能力
 
-| 🎨 **精确苹果设计令牌** | 颜色、间距、z-index 分层，全部从 apple.com 生产构建中提取 |
+| 🎨 **精确苹果设计令牌** | 颜色、间距、z-index 分层，全部从 apple.com 提取 |
 | :--- | :--- |
 | 🔤 **SF Pro 字体体系** | 6 个响应式断点，精确的 font-size/line-height/letter-spacing |
-| 🪟 **毛玻璃导航栏** | ackdrop-filter: saturate(180%) blur(20px)，固定 44px |
+| 🪟 **毛玻璃导航栏** | backdrop-filter blur，固定 44px，内联 SVG 图标 |
 | 🖼️ **全幅 Hero 磁贴** | 深色戏剧感 + 底部对齐白色文字 + 渐变覆盖层 |
 | 🎠 **自动轮播画廊** | 圆点导航 + 5 秒自动推进，平滑过渡 |
 | ✅ **输出前 QA 检查** | 10+ 项验证 — 零阴影、零图标字体、零圆角 |
